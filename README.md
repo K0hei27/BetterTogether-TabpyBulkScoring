@@ -92,6 +92,7 @@ Lastly, the Prep Builder flow has to be setup to use the Python script for bulk 
 3) Create an output step from the script step. I have saved the file in a hyper extract but it can be exported out based on all the supported formats within Prep Builder.
 
 *(Optional Extra Steps to include the predictions on the original file)*
+
 4) Add a second branch to the output of the script step with an aggregate step. Group by the Id field and aggregate the Prediction field with the function "AVG"
-5) Add a join step after the aggregation, with the left side of the join being the original file, and the right side being the output of the aggregated step. Set the join to be an outer left join.
-6) Create an output step coming from this join step to create a file which has all the original information along with a new prediction column
+6) Add a join step after the aggregation, with the left side of the join being the original file, and the right side being the output of the aggregated step. Set the join to be an outer left join.
+7) Create an output step coming from this join step to create a file which has all the original information along with a new prediction column
