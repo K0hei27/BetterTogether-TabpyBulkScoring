@@ -1,5 +1,12 @@
 # TabpyBulkScoring
 
+
+
+## Dependency
+Tabpy : All the packages needed in the virtualenv is in requirements.txt
+Tableau : Tableau Desktop and Tableau Prep Builder
+Salesforce : Prediction or Sandbox includer Einstein Analytics Plus Licence
+
 ## Python Script and Tanpy Setup
 ### Python Packages Installation
 1) Install Pip (https://pip.pypa.io/en/stable/installing/)
