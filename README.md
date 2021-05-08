@@ -1,6 +1,5 @@
 # Better Together Tabpy Bulk Scoring
-![BetterTogether2](https://user-images.githubusercontent.com/39613850/117526152-214a3f00-affe-11eb-88d7-e87d8d20ea07.gif)
-
+![BetterTogether2](https://user-images.githubusercontent.com/39613850/117526263-ff04f100-affe-11eb-9494-11cb48282306.gif)
 
 
 ## Dependency
