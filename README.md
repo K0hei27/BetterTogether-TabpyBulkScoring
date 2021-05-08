@@ -1,5 +1,5 @@
 # Better Together Tabpy Bulk Scoring
-![BetterTogether](https://user-images.githubusercontent.com/39613850/117524151-46877f00-aff7-11eb-891f-fbb021546ae3.gif)
+![BetterTogether2](https://user-images.githubusercontent.com/39613850/117526152-214a3f00-affe-11eb-88d7-e87d8d20ea07.gif)
 
 
 
