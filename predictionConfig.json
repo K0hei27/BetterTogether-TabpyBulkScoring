@@ -1,0 +1,26 @@
+{
+    "predictionId": "<Einstein Discovery Model ID>",
+    "dataConfig": {
+        "idColumn": "ID",
+        "columnMap": {
+            "MarketingCampagn__c": "<API name>",
+            "YearOfServices__c": "<API name>",
+            "Product__c": "<API name>",
+            "Department__c": "<API name>",
+            "Prefecture__c": "<API name>"
+        }
+    },
+    "savedSession": {
+        "auth": "<your org token>",
+        "url": "<your org domain>"
+    },
+    "appCreds": {
+        "clientId": "<clientID>",
+        "clientSecret": "<clinetSecret>"
+    },
+    "login": {
+        "username": "<your org username>",
+        "password": "<your org password>",
+        "url": "https://login.salesforce.com"
+    }
+}
