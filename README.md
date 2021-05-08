@@ -1,6 +1,7 @@
 # Better Together Tabpy Bulk Scoring
 ![BetterTogether3](https://user-images.githubusercontent.com/39613850/117539220-a5bfb080-b044-11eb-8e28-df8bde24c62c.gif)
 
+[Tableau Public](https://public.tableau.com/profile/kohei.fukada#!/vizhome/PrepBuilderBulkScoring/sheet0)
 
 ## Dependency
 Tabpy : All the packages needed in the virtualenv is in requirements.txt
