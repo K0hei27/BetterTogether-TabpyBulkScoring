@@ -6,6 +6,8 @@
 Tabpy : All the packages needed in the virtualenv is in requirements.txt
 Tableau : Tableau Desktop and Tableau Prep Builder
 Salesforce : Prediction or Sandbox includer Einstein Analytics Plus Licence
+## Architecture
+<img width="1081" alt="スクリーンショット 2021-05-08 21 12 24" src="https://user-images.githubusercontent.com/39613850/117538637-187b5c80-b042-11eb-82ea-d969eb06ef04.png">
 
 ## Python Script and Tanpy Setup
 ### Python Packages Installation
