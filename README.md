@@ -1,4 +1,4 @@
-# Better Together Tableau and Salesforce by Tabpy Bulk Scoring
+# Better Together Tabpy Bulk Scoring
 ![BetterTogether](https://user-images.githubusercontent.com/39613850/117524151-46877f00-aff7-11eb-891f-fbb021546ae3.gif)
 
 
